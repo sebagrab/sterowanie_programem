@@ -27,3 +27,4 @@ elif isRestrictedArea:
 else:
     print("kup se")
 
+print("tak")
