@@ -28,3 +28,4 @@ else:
     print("kup se")
 
 print("tak")
+print("czy dzila")
