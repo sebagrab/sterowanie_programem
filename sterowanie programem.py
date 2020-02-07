@@ -29,3 +29,5 @@ else:
 
 print("tak")
 print("czy dzila")
+
+to tez
