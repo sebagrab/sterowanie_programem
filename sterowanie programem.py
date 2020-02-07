@@ -29,7 +29,3 @@ else:
 
 print("tak")
 print("czy dzila")
-
-Huraa
-
-a teraz z komentarzem
